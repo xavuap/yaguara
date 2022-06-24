@@ -1,0 +1,112 @@
+
+		db.yin.updateOne({nimi:"antihora"},{$set:{
+			multi: "spazio",
+			tempo: "bisemanal",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"daily"},{$set:{
+			multi: "spazio",
+			tempo: "diario",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"antihoral"},{$set:{
+			multi: "spazio",
+			tempo: "semanal",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"soltanto"},{$set:{
+			multi: "soltanto",
+			tempo: "bisemanal",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"variable"},{$set:{
+			multi: "spazio",
+			tempo: "bisemanal",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"varial"},{$set:{
+			multi: "spazio",
+			tempo: "semanal",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"semanario"},{$set:{
+			tempo: "semanal",
+			multi: "soltanto",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"diario"},{$set:{
+			tempo: "diario",
+			multi: "spazio",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"carulosu"},{$set:{
+			tempo: "semanal",
+			multi: "spazio",
+			fino: "contra"
+		}})
+		db.yin.updateOne({nimi:"cario"},{$set:{
+			tempo: "diario",
+			multi: "spazio",
+			fino: "contra"
+		}})
+		db.yin.updateOne({nimi:"dianita"},{$set:{
+			tempo: "madruga",
+			multi: "spazio",
+			fino: false
+		}})
+		db.yin.updateOne({nimi:"madruga"},{$set:{
+			tempo: "madruga",
+			multi: "cevi",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"madrugona"},{$set:{
+			tempo: "madruga",
+			multi: "cevi",
+			fino: "contra"
+		}})
+		db.yin.updateOne({nimi:"madrugonazo"},{$set:{
+			tempo: "madruga",
+			multi: "cevi",
+			fino: "encontro"
+		}})
+		db.yin.updateOne({nimi:"madrugano"},{$set:{
+			tempo: "madruga",
+			multi: "cevi",
+			fino: false
+		}})
+		db.yin.updateOne({nimi:"bisemanable"},{$set:{
+			tempo: "bisemanal",
+			multi: "spazio",
+			fino: "contra"
+		}})
+		db.yin.updateOne({nimi:"cebi"},{$set:{
+			tempo: "bisemanal",
+			multi: "cebo",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"cebal"},{$set:{
+			tempo: "semanal",
+			multi: "cebo",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"cebario"},{$set:{
+			tempo: "diario",
+			multi: "cebo",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"semi"},{$set:{
+			tempo: "bisemanal",
+			multi: "semi",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"semanal"},{$set:{
+			tempo: "semanal",
+			multi: "semi",
+			fino: "antihora"
+		}})
+		db.yin.updateOne({nimi:"semario"},{$set:{
+			tempo: "diario",
+			multi: "semi",
+			fino: "antihora"
+		}})
+	

@@ -1,0 +1,181 @@
+
+	db.yin.updateOne({"nimi" : "soltanto"},{
+		$set:{
+			multi: "soltanto",
+			tempo: "bisemanal",
+			fino: "encontro"
+		}
+	})
+	db.yin.updateOne({"nimi" : "variable"},{
+		$set:{
+			multi: "varios",
+			tempo: "bisemanal",
+			fino: "encontro"
+		}
+	})
+
+	db.yin.updateOne({"nimi" : "varial"},{
+		$set:{
+			multi: "varios",
+			tempo: "semanal",
+			fino: "encontro"
+		}
+	})
+
+	db.yin.updateOne({"nimi" : "semanario"},{
+		$set:{
+			multi: "varios",
+			tempo: "soltanto",
+			fino: "encontro"
+		}
+	})
+	db.yin.updateOne({"nimi" : "diario"},{
+		$set:{
+			multi: "varios",
+			tempo: "diario",
+			fino: "encontro"
+		}
+	})
+	db.yin.updateOne({"nimi" : "carulosu"},{
+		$set:{
+			multi: "varios",
+			tempo: "semanal",
+			fino: "contra"
+		}
+	})
+	db.yin.updateOne({"nimi" : "bisemanable"},{
+		$set:{
+			multi: "varios",
+			tempo: "bisemanal",
+			fino: "contra"
+		}
+	})
+
+	db.yin.updateOne({"nimi" : "antihora"},{
+		$set:{
+			multi: "spazio",
+			tempo: "bisemanal",
+			fino: "antihora"
+		}
+	})
+	db.yin.updateOne({"nimi" : "daily"},{
+		$set:{
+			multi: "spazio",
+			tempo: "diario",
+			fino: "antihora"
+		}
+	})
+	{
+		"_id" : ObjectId("5ef02a70d0ae07cb53f91fb6"),
+		"nimi" : "daily",
+		"balance" : 9774.590000000004,
+		"cumulo" : 0,
+		"max" : 1725
+	},
+	{
+		"_id" : ObjectId("5ef2cd1cd0ae07cb53ffb073"),
+		"nimi" : "antihoral",
+		"balance" : 9838.839999999998,
+		"cumulo" : -25,
+		"max" : 2125
+	},
+	{
+		"_id" : ObjectId("5ef9341fd0ae07cb5308a965"),
+		"nimi" : "cebi",
+		"balance" : 9902.810000000007,
+		"cumulo" : 0,
+		"max" : 775
+	},
+	{
+		"_id" : ObjectId("5ef93507d0ae07cb5308aa3e"),
+		"nimi" : "cebal",
+		"balance" : 9886.160000000005,
+		"cumulo" : 0,
+		"max" : 875
+	},
+	{
+		"_id" : ObjectId("5ef93508d0ae07cb5308aa46"),
+		"nimi" : "cebario",
+		"balance" : 9917.109999999999,
+		"cumulo" : 0,
+		"max" : 800
+	},
+	{
+		"_id" : ObjectId("5ef975bcd0ae07cb53092392"),
+		"nimi" : "semi",
+		"balance" : 9867.860000000008,
+		"cumulo" : 0,
+		"max" : 950
+	},
+	{
+		"_id" : ObjectId("5ef975bdd0ae07cb5309239b"),
+		"nimi" : "semanal",
+		"balance" : 9838.770000000011,
+		"cumulo" : 0,
+		"max" : 1150
+	},
+	{
+		"_id" : ObjectId("5ef975bed0ae07cb530923a2"),
+		"nimi" : "semario",
+		"balance" : 9878.880000000005,
+		"cumulo" : 0,
+		"max" : 1050
+	},
+	{
+		"_id" : ObjectId("5efae5d1d0ae07cb530d56c1"),
+		"nimi" : "cario",
+		"balance" : 9909.970000000008,
+		"cumulo" : 0,
+		"max" : 1050
+	},
+	{
+		"_id" : ObjectId("5efd5746d0ae07cb531752b4"),
+		"nimi" : "dianita",
+		"balance" : 10013.17,
+		"cumulo" : 0,
+		"max" : 850,
+		"fino" : false,
+		"multi" : "spazio",
+		"tempo" : "diario"
+	},
+	{
+		"_id" : ObjectId("5efc3cf8d0ae07cb5310dc97"),
+		"nimi" : "madrugano",
+		"balance" : 10009.310000000005,
+		"cumulo" : 0,
+		"max" : 675,
+		"fino" : false,
+		"multi" : "cevi",
+		"tempo" : "madruga"
+	},
+	{
+		"_id" : ObjectId("5efc3cf8d0ae07cb5310dc90"),
+		"nimi" : "madrugonazo",
+		"balance" : 10009.730000000005,
+		"cumulo" : 0,
+		"max" : 675,
+		"fino" : "encontro",
+		"multi" : "cevi",
+		"tempo" : "madruga"
+	},
+	{
+		"_id" : ObjectId("5efc3cf8d0ae07cb5310dc89"),
+		"nimi" : "madrugona",
+		"balance" : 10000.039999999997,
+		"cumulo" : 0,
+		"max" : 400,
+		"fino" : "contra",
+		"multi" : "cevi",
+		"tempo" : "madruga"
+	},
+	{
+		"_id" : ObjectId("5efaf034d0ae07cb530d7816"),
+		"nimi" : "madruga",
+		"balance" : 10006.250000000005,
+		"cumulo" : 0,
+		"max" : 675,
+		"fino" : "antihora",
+		"multi" : "cevi",
+		"tempo" : "madruga"
+	}
+]

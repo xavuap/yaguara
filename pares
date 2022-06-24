@@ -1,0 +1,65 @@
+
+	"usdmxn"
+	"usdtry"
+	"usdcnh"
+	"usdsgd"
+
+	usd zar jpy
+		"usdzar"
+		"usdjpy"
+		zarjpy
+		
+	usd pln eur
+		"usdpln"
+		eurpln
+		"eurusd"
+	
+	usd sek nok eur		
+		"usdsek"
+		"usdnok"
+		noksek
+		eursek
+		eurnok
+		"eurusd"
+	
+	usd huf gbp eur chf
+		"usdhuf"
+		chfhuf
+		eurhuf
+		gbphuf
+		"usdchf"
+		"eurusd"
+		eurchf
+		eurgbp
+		"gbpusd"
+		gbpchf
+
+	usd jpy chf eur gbp nzd aud cad
+		"usdjpy"
+		"nzdusd"
+		"eurusd"
+		"audusd"
+		"gbpusd"
+		"usdchf"
+		"usdcad"
+		chfjpy
+		cadjpy
+		audjpy
+		nzdjpy
+		audcad
+		nzdcad
+		eurgbp
+		eurchf
+		eurjpy
+		gbpjpy
+		euraud
+		eurcad
+		audchf
+		audnzd
+		eurnzd
+		gbpchf
+		gbpnzd
+		nzdchf
+		cadchf
+		gbpcad
+		gbpaud

@@ -1,0 +1,242 @@
+[
+	{
+		"_id" : ObjectId("5f027a3fd0ae07cb532871b7"),
+		"fina" : "no",
+		"multi" : "soltanto",
+		"tempo" : "madruga",
+		"balance" : 10018.549999999997,
+		"cumulo" : 0,
+		"max" : 825,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a40d0ae07cb532871bf"),
+		"fina" : "no",
+		"multi" : "spazio",
+		"tempo" : "madruga",
+		"balance" : 9677.96,
+		"cumulo" : 0,
+		"max" : 1150,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a41d0ae07cb532871c6"),
+		"fina" : "no",
+		"multi" : "semi",
+		"tempo" : "madruga",
+		"balance" : 9927.699999999997,
+		"cumulo" : 0,
+		"max" : 600,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a42d0ae07cb532871cd"),
+		"fina" : "no",
+		"multi" : "cevi",
+		"tempo" : "madruga",
+		"balance" : 9829.429999999998,
+		"cumulo" : 0,
+		"max" : 800,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a43d0ae07cb532871d4"),
+		"fina" : "no",
+		"multi" : "cebo",
+		"tempo" : "madruga",
+		"balance" : 9975.53,
+		"cumulo" : 0,
+		"max" : 325,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a44d0ae07cb532871dc"),
+		"fina" : "encontro",
+		"multi" : "soltanto",
+		"tempo" : "madruga",
+		"balance" : 10018.349999999999,
+		"cumulo" : 0,
+		"max" : 775,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a45d0ae07cb532871e3"),
+		"fina" : "encontro",
+		"multi" : "spazio",
+		"tempo" : "madruga",
+		"balance" : 9677.76,
+		"cumulo" : 0,
+		"max" : 1100,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a46d0ae07cb532871e9"),
+		"fina" : "encontro",
+		"multi" : "semi",
+		"tempo" : "madruga",
+		"balance" : 9927.699999999997,
+		"cumulo" : 0,
+		"max" : 600,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a47d0ae07cb532871f0"),
+		"fina" : "encontro",
+		"multi" : "cevi",
+		"tempo" : "madruga",
+		"balance" : 9829.429999999998,
+		"cumulo" : 0,
+		"max" : 800,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a48d0ae07cb532871f8"),
+		"fina" : "encontro",
+		"multi" : "cebo",
+		"tempo" : "madruga",
+		"balance" : 9975.53,
+		"cumulo" : 0,
+		"max" : 325,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a49d0ae07cb53287200"),
+		"fina" : "antihora",
+		"multi" : "soltanto",
+		"tempo" : "madruga",
+		"balance" : 10018.08,
+		"cumulo" : 0,
+		"max" : 750,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4ad0ae07cb53287206"),
+		"fina" : "antihora",
+		"multi" : "spazio",
+		"tempo" : "madruga",
+		"balance" : 9677.490000000002,
+		"cumulo" : 0,
+		"max" : 1075,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4bd0ae07cb5328720e"),
+		"fina" : "antihora",
+		"multi" : "semi",
+		"tempo" : "madruga",
+		"balance" : 9927.699999999997,
+		"cumulo" : 0,
+		"max" : 600,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4dd0ae07cb53287216"),
+		"fina" : "antihora",
+		"multi" : "cevi",
+		"tempo" : "madruga",
+		"balance" : 9829.429999999998,
+		"cumulo" : 0,
+		"max" : 800,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4ed0ae07cb5328721e"),
+		"fina" : "antihora",
+		"multi" : "cebo",
+		"tempo" : "madruga",
+		"balance" : 9975.53,
+		"cumulo" : 0,
+		"max" : 325,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4fd0ae07cb53287225"),
+		"fina" : "contra",
+		"multi" : "soltanto",
+		"tempo" : "madruga",
+		"balance" : 10005.32000000001,
+		"cumulo" : 0,
+		"max" : 700,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a4fd0ae07cb5328722c"),
+		"fina" : "contra",
+		"multi" : "spazio",
+		"tempo" : "madruga",
+		"balance" : 9795.68000000001,
+		"cumulo" : 0,
+		"max" : 875,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a50d0ae07cb53287232"),
+		"fina" : "contra",
+		"multi" : "semi",
+		"tempo" : "madruga",
+		"balance" : 9950.48,
+		"cumulo" : 0,
+		"max" : 475,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a51d0ae07cb53287239"),
+		"fina" : "contra",
+		"multi" : "cevi",
+		"tempo" : "madruga",
+		"balance" : 9874.890000000001,
+		"cumulo" : 0,
+		"max" : 700,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f027a52d0ae07cb53287240"),
+		"fina" : "contra",
+		"multi" : "cebo",
+		"tempo" : "madruga",
+		"balance" : 9975.42,
+		"cumulo" : 0,
+		"max" : 175,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f02a017d0ae07cb5329df6e"),
+		"fina" : "no",
+		"multi" : "cedi",
+		"tempo" : "madruga",
+		"balance" : 9928.269999999997,
+		"cumulo" : 0,
+		"max" : 775,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f02a017d0ae07cb5329df83"),
+		"fina" : "encontro",
+		"multi" : "cedi",
+		"tempo" : "madruga",
+		"balance" : 9928.269999999997,
+		"cumulo" : 0,
+		"max" : 775,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f02a017d0ae07cb5329df98"),
+		"fina" : "antihora",
+		"multi" : "cedi",
+		"tempo" : "madruga",
+		"balance" : 9928.269999999997,
+		"cumulo" : 0,
+		"max" : 775,
+		"monto" : 25
+	},
+	{
+		"_id" : ObjectId("5f02a017d0ae07cb5329dfad"),
+		"fina" : "contra",
+		"multi" : "cedi",
+		"tempo" : "madruga",
+		"balance" : 9926.459999999997,
+		"cumulo" : 0,
+		"max" : 700,
+		"monto" : 25
+	}
+]

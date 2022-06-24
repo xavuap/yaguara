@@ -1,0 +1,36 @@
+{
+  "name": "yaguara",
+  "version": "2.2.0",
+  "description": "semilla",
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  },
+  "main": "café",
+  "scripts": {
+    "start": "node café",
+    "test": "node sonda"
+  },
+  "dependencies": {
+    "coffee-register": "latest",
+    "heroku-client": "latest",
+    "mongodb": "latest",
+    "puppeteer": "latest",
+    "request": "latest",
+    "sse-nodejs": "latest",
+    "ws": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/yaguara"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "semilla",
+    "auyama",
+    "yaguara",
+    "café"
+  ],
+  "license": "gpl"
+}
